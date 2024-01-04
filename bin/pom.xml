@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bookStore</groupId>
-	<artifactId>AntiquaLire</artifactId>
+	<artifactId>bookStore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bookStore</name>
 	<description>This is AntiquaLire project</description>
